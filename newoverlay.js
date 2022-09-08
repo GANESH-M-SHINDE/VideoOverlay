@@ -29,7 +29,8 @@
           blue_family: "https://content.tui.co.uk/adamtui/2020_2/10_10/6dc1a95b-820c-435e-8ce4-ab5d00afc165/blue_family.png",
           generic: "https://content.tui.co.uk/adamtui/2020_2/10_10/ed539598-35fd-49b6-967c-ab5d00afc1e8/generic.png",
           vip: "http://cdn.content.tuigroup.com/tuidamstages3/2022_9/5_9/c97c3b9a-5176-4962-b733-af07009922bb/VIP_white_grey.png",
-          airtours:"https://cdn.content.tuigroup.com/tuidamstages3/2022_6/14_7/8db0d08d-ec4b-409a-aae6-aeb4007be5ac/airtours.png"
+          airtours:"https://cdn.content.tuigroup.com/tuidamstages3/2022_6/14_7/8db0d08d-ec4b-409a-aae6-aeb4007be5ac/airtours.png",
+          firstchoice:"http://cdn.content.tuigroup.com/tuidamstages3/2022_9/8_6/0a0c9921-76a8-44ef-b92b-af0a006eea85/FC_PRIMARY_horiz_fc_RGB.jpg"
       }
       var player = this,
       overlay = document.createElement('div');
